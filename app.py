@@ -2,7 +2,7 @@ import streamlit as st
 import joblib
 import pickle
 import numpy as np
-postgresql://postgres.ziaiafqprvvtcrxsgrgu:[YOUR-PASSWORD]@aws-1-us-east-2.pooler.supabase.com:6543/postgres
+
 import psycopg2
 # Fetch variables
 USER = "postgres.ziaiafqprvvtcrxsgrgu" #os.getenv("user")
